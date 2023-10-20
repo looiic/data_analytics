@@ -11,3 +11,12 @@
 *.obj
 
 
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.DS_Store
+Week_04/.ipynb_checkpoints/exploratory_data_analysis_supermarket_data-checkpoint.ipynb
+Week_04/.ipynb_checkpoints/rural_apartments-checkpoint.ipynb
+Week_04/.ipynb_checkpoints/graphics_with_matplotlib-checkpoint.ipynb
+Week_04/.ipynb_checkpoints/exploratory_data_analysis_apartment_data-checkpoint.ipynb
+Week_04/.ipynb_checkpoints/city_apartments-checkpoint.ipynb
+Week_03/.ipynb_checkpoints/combining_and_organizing_data-checkpoint.ipynb
+Week_03/.ipynb_checkpoints/apartments_data_preparation_zuerich-checkpoint.ipynb
