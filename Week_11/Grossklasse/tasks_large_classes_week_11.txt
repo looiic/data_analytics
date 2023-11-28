@@ -1,0 +1,11 @@
+Tasks: 
+
+1.) The exercises in this large class are designed to deepen understanding of the word embedding concept.
+    The example shows how neural networks can be used to train models for word embeddings and predictions 
+    of target words of a text corpus. Note that knowledge about the functionality of neural networks 
+    is not part of the written exam.
+
+2.) Try to run the Jupyter notebook and understand what the Python code is doing.
+
+3.) Learn how text data is prepared, and how neural networks can be used to create word embeddings and to predict
+    target words based on continuous bag-of-words (CBOW).
