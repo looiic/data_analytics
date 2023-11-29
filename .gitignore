@@ -4,37 +4,11 @@
 # Ignore all  .mp4 - files
 *.mp4
 
-# Ignore all  .qgz - files
-*.qgz
-
 # Ignore all .obj - files
 *.obj
 
-
-.ipynb_checkpoints/Untitled-checkpoint.ipynb
 .DS_Store
-Week_04/.ipynb_checkpoints/exploratory_data_analysis_supermarket_data-checkpoint.ipynb
-Week_04/.ipynb_checkpoints/rural_apartments-checkpoint.ipynb
-Week_04/.ipynb_checkpoints/graphics_with_matplotlib-checkpoint.ipynb
-Week_04/.ipynb_checkpoints/exploratory_data_analysis_apartment_data-checkpoint.ipynb
-Week_04/.ipynb_checkpoints/city_apartments-checkpoint.ipynb
-Week_03/.ipynb_checkpoints/combining_and_organizing_data-checkpoint.ipynb
-Week_03/.ipynb_checkpoints/apartments_data_preparation_zuerich-checkpoint.ipynb
-Projekt/.ipynb_checkpoints/db_connection-checkpoint.ipynb
-Projekt/db_connection.ipynb
-Week_05/.ipynb_checkpoints/geocoding_addresses-checkpoint.ipynb
-Week_06/.ipynb_checkpoints/analysis_of_variance_ANOVA-checkpoint.ipynb
-Week_06/.ipynb_checkpoints/population_and_samples-checkpoint.ipynb
-Week_06/.ipynb_checkpoints/unpaired_two_sample_t-test-checkpoint.ipynb
-Week_07/.ipynb_checkpoints/analysis_of_contingency_tables-checkpoint.ipynb
-Week_07/.ipynb_checkpoints/correlation_analysis-checkpoint.ipynb
-Week_08/Grossklasse/.ipynb_checkpoints/inclass_excercise-checkpoint.ipynb
-Week_08/.ipynb_checkpoints/linear_regression-checkpoint.ipynb
-Week_08/.ipynb_checkpoints/regression_trees_random_forest-checkpoint.ipynb
-Week_09/.ipynb_checkpoints/classification_analysis_supermarkets-checkpoint.ipynb
-Week_09/.ipynb_checkpoints/classification_analysis_titanic-checkpoint.ipynb
-Week_10/.ipynb_checkpoints/k-means_clustering-checkpoint.ipynb
-Week_10/grossklasse/.ipynb_checkpoints/GK-checkpoint.ipynb
-Week_11/Grossklasse/.ipynb_checkpoints/neural_network_with_continuous_bag_of_words_CBOW-checkpoint.ipynb
-Projekt/.ipynb_checkpoints/save_raw_data_to_db-checkpoint.ipynb
-Projekt/.ipynb_checkpoints/data_preparation-checkpoint.ipynb
+.ipynb_checkpoints/
+.vscode
+.devcontainer
+Week_05/Task2.qgz
