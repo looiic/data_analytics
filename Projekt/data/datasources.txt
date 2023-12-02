@@ -1,0 +1,17 @@
+Webscraping URL:
+
+Concerts (Rubric 903)
+https://eventfrog.ch/de/events.html?sc=events&fromDate=2023-12-1&toDate=2023-12-31&page=50&rubrics=908
+
+Partys (Rubric 914)
+https://eventfrog.ch/de/events.html?sc=events&fromDate=2023-12-1&toDate=2023-12-31&page=50&rubrics=914
+
+
+Datasource for trainstations:
+https://data.sbb.ch/explore/dataset/haltestelle-haltekante/information/?disjunctive.gemeindename&disjunctive.bezirksname&disjunctive.kantonskuerzel&disjunctive.bpvh_verkehrsmittel_text_de&disjunctive.go_abkuerzung_de&disjunctive.go_bezeichnung_de
+
+Datasource for Gemeinden in switzerland
+https://www.swisstopo.admin.ch/de/geodata/landscape/boundaries3d.html 
+
+Datasource for Kantonsnummern und kantonskuerzel:
+https://www.bfs.admin.ch/asset/de/453856 
