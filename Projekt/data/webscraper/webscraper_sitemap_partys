@@ -1,0 +1,117 @@
+{
+    "_id": "Eventfrog2",
+    "startUrl": [
+        "https://eventfrog.ch/de/events.html?sc=events&fromDate=2023-12-1&toDate=2023-12-31&page=50&rubrics=914"
+    ],
+    "selectors": [
+        {
+            "id": "event",
+            "parentSelectors": [
+                "_root"
+            ],
+            "type": "SelectorElement",
+            "selector": "efrg-event-list:shadow-root a.event-list__events__tile",
+            "multiple": true
+        },
+        {
+            "id": "link",
+            "parentSelectors": [
+                "event"
+            ],
+            "type": "SelectorLink",
+            "selector": "_parent_",
+            "multiple": false,
+            "linkType": "linkFromHref"
+        },
+        {
+            "id": "name",
+            "parentSelectors": [
+                "event"
+            ],
+            "type": "SelectorText",
+            "selector": "span.event-list__events__tile__content__infos__title",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "is_eventgruppe",
+            "parentSelectors": [
+                "event"
+            ],
+            "type": "SelectorText",
+            "selector": "div.event-list__events__tile__group-indicator__inner",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "datetime",
+            "parentSelectors": [
+                "event"
+            ],
+            "type": "SelectorText",
+            "selector": "span.event-list__events__tile__content__infos__time",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "date",
+            "parentSelectors": [
+                "link"
+            ],
+            "type": "SelectorText",
+            "selector": "time[itemprop='startDate']",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "description",
+            "parentSelectors": [
+                "link"
+            ],
+            "type": "SelectorText",
+            "selector": "div[itemprop='description']",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "price",
+            "parentSelectors": [
+                "link"
+            ],
+            "type": "SelectorText",
+            "selector": "[data-prj-categoryid='1'] span.ticket-price",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "address",
+            "parentSelectors": [
+                "link"
+            ],
+            "type": "SelectorText",
+            "selector": "span.location-title",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "category",
+            "parentSelectors": [
+                "link"
+            ],
+            "type": "SelectorText",
+            "selector": ".small-12 .medium-8 p a",
+            "multiple": false,
+            "regex": ""
+        },
+        {
+            "id": "time",
+            "parentSelectors": [
+                "link"
+            ],
+            "type": "SelectorText",
+            "selector": "tr:nth-of-type(2):contains('') td:nth-of-type(2)",
+            "multiple": false,
+            "regex": ""
+        }
+    ]
+}
