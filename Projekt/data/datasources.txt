@@ -15,3 +15,9 @@ https://www.swisstopo.admin.ch/de/geodata/landscape/boundaries3d.html
 
 Datasource for Kantonsnummern und kantonskuerzel:
 https://www.bfs.admin.ch/asset/de/453856 
+
+Datasource for population between 20 and 39 in switzerland:
+https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung/alter.assetdetail.27025213.html 
+
+Datasource for population density in switzerland:
+https://www.atlas.bfs.admin.ch/maps/13/de/12614_75_3501_70/20695.html 
